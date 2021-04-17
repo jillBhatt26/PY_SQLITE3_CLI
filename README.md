@@ -23,5 +23,5 @@
 ## Run Command
 
 ```
-python3 menu_handler.py
+python menu_handler.py
 ```
